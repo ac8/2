@@ -1,0 +1,1 @@
+var fu='http://xiyuan.u887.us';
